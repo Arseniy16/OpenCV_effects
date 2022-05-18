@@ -1,0 +1,6 @@
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/rebuild_cache.dir
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/edit_cache.dir
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/createAssetsBundle.dir
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/effect.dir
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/build-opencv-configure.dir
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/build-opencv.dir

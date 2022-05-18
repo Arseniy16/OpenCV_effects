@@ -1,0 +1,11 @@
+# Target labels
+ build-opencv
+# Source files and their labels
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/build-opencv-configure
+/home/arseniy/opencv_masks/effect_sandbox/build/CMakeFiles/build-opencv-configure.rule
+/home/arseniy/opencv_masks/effect_sandbox/build/build-opencv-prefix/src/build-opencv-stamp/build-opencv-configure.rule
+/home/arseniy/opencv_masks/effect_sandbox/build/build-opencv-prefix/src/build-opencv-stamp/build-opencv-update.rule
+/home/arseniy/opencv_masks/effect_sandbox/build/build-opencv-prefix/src/build-opencv-stamp/build-opencv-patch.rule
+/home/arseniy/opencv_masks/effect_sandbox/build/build-opencv-prefix/src/build-opencv-stamp/build-opencv-clean.rule
+/home/arseniy/opencv_masks/effect_sandbox/build/build-opencv-prefix/src/build-opencv-stamp/build-opencv-download.rule
+/home/arseniy/opencv_masks/effect_sandbox/build/build-opencv-prefix/src/build-opencv-stamp/build-opencv-mkdir.rule
